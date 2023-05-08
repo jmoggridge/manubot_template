@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-08" />
   <meta name="citation_publication_date" content="2023-05-08" />
   <meta property="article:published_time" content="2023-05-08" />
-  <meta name="dc.modified" content="2023-05-08T23:25:22+00:00" />
-  <meta property="article:modified_time" content="2023-05-08T23:25:22+00:00" />
+  <meta name="dc.modified" content="2023-05-08T23:28:03+00:00" />
+  <meta property="article:modified_time" content="2023-05-08T23:28:03+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://jmoggridge.github.io/manubot_template/" />
   <meta name="citation_pdf_url" content="https://jmoggridge.github.io/manubot_template/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jmoggridge.github.io/manubot_template/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jmoggridge.github.io/manubot_template/v/f6cec6d0d5bcf4f29ce64c7673b8f917f56237ab/" />
-  <meta name="manubot_html_url_versioned" content="https://jmoggridge.github.io/manubot_template/v/f6cec6d0d5bcf4f29ce64c7673b8f917f56237ab/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jmoggridge.github.io/manubot_template/v/f6cec6d0d5bcf4f29ce64c7673b8f917f56237ab/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jmoggridge.github.io/manubot_template/v/6734d06f196eeb1fa10b7fa117ba05e2c7a0d6de/" />
+  <meta name="manubot_html_url_versioned" content="https://jmoggridge.github.io/manubot_template/v/6734d06f196eeb1fa10b7fa117ba05e2c7a0d6de/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jmoggridge.github.io/manubot_template/v/6734d06f196eeb1fa10b7fa117ba05e2c7a0d6de/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jmoggridge.github.io/manubot_template/v/f6cec6d0d5bcf4f29ce64c7673b8f917f56237ab/))
+([permalink](https://jmoggridge.github.io/manubot_template/v/6734d06f196eeb1fa10b7fa117ba05e2c7a0d6de/))
 was automatically generated
-from [jmoggridge/manubot_template@f6cec6d](https://github.com/jmoggridge/manubot_template/tree/f6cec6d0d5bcf4f29ce64c7673b8f917f56237ab)
+from [jmoggridge/manubot_template@6734d06](https://github.com/jmoggridge/manubot_template/tree/6734d06f196eeb1fa10b7fa117ba05e2c7a0d6de)
 on May 8, 2023.
 </em></small>
 
@@ -416,6 +416,10 @@ useful for *important information* - [manubot.org](https://manubot.org/)
 useful for *warnings* - [manubot.org](https://manubot.org/)
 ]{.banner .lightred}
 
+
+## Some other section...
+
+Will it be integrated in order?
 
 ## References {.page_break_before}
 
