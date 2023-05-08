@@ -7,7 +7,7 @@ keywords:
 lang: en-US
 date-meta: '2023-05-08'
 author-meta:
-- John Doe
+- J Moggridge
 - Jane Roe
 header-includes: |
   <!--
@@ -23,18 +23,17 @@ header-includes: |
   <meta name="dc.date" content="2023-05-08" />
   <meta name="citation_publication_date" content="2023-05-08" />
   <meta property="article:published_time" content="2023-05-08" />
-  <meta name="dc.modified" content="2023-05-08T23:21:37+00:00" />
-  <meta property="article:modified_time" content="2023-05-08T23:21:37+00:00" />
+  <meta name="dc.modified" content="2023-05-08T23:25:22+00:00" />
+  <meta property="article:modified_time" content="2023-05-08T23:25:22+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="citation_author" content="J Moggridge" />
+  <meta name="citation_author_institution" content="LTRI" />
+  <meta name="citation_author_orcid" content="6969-6969-9696-9969" />
   <meta name="citation_author" content="Jane Roe" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
@@ -45,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://jmoggridge.github.io/manubot_template/" />
   <meta name="citation_pdf_url" content="https://jmoggridge.github.io/manubot_template/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jmoggridge.github.io/manubot_template/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jmoggridge.github.io/manubot_template/v/0fdcff953d18eb42c7ace2f02b141c334ef0260a/" />
-  <meta name="manubot_html_url_versioned" content="https://jmoggridge.github.io/manubot_template/v/0fdcff953d18eb42c7ace2f02b141c334ef0260a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jmoggridge.github.io/manubot_template/v/0fdcff953d18eb42c7ace2f02b141c334ef0260a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jmoggridge.github.io/manubot_template/v/f6cec6d0d5bcf4f29ce64c7673b8f917f56237ab/" />
+  <meta name="manubot_html_url_versioned" content="https://jmoggridge.github.io/manubot_template/v/f6cec6d0d5bcf4f29ce64c7673b8f917f56237ab/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jmoggridge.github.io/manubot_template/v/f6cec6d0d5bcf4f29ce64c7673b8f917f56237ab/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jmoggridge.github.io/manubot_template/v/0fdcff953d18eb42c7ace2f02b141c334ef0260a/))
+([permalink](https://jmoggridge.github.io/manubot_template/v/f6cec6d0d5bcf4f29ce64c7673b8f917f56237ab/))
 was automatically generated
-from [jmoggridge/manubot_template@0fdcff9](https://github.com/jmoggridge/manubot_template/tree/0fdcff953d18eb42c7ace2f02b141c334ef0260a)
+from [jmoggridge/manubot_template@f6cec6d](https://github.com/jmoggridge/manubot_template/tree/f6cec6d0d5bcf4f29ce64c7673b8f917f56237ab)
 on May 8, 2023.
 </em></small>
 
@@ -81,20 +80,18 @@ on May 8, 2023.
 
 
 
-+ **John Doe**
++ **J Moggridge**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [6969-6969-9696-9969](https://orcid.org/6969-6969-9696-9969)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
+    [jmoggridge](https://github.com/jmoggridge)
     · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
+    [\@jmoggridge@vis.social](https://vis.social/@jmoggridge)
     <br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     LTRI
+     · Funded by Grant skdnfalsndfd
   </small>
 
 + **Jane Roe**
@@ -120,7 +117,7 @@ Jane Roe \<jane.roe@whatever.edu\>.
 
 ## Abstract {.page_break_before}
 
-
+Here is an abstract....
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
