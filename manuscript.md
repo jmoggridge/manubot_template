@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: Manubot Testing Exercise
 keywords:
 - markdown
 - publishing
@@ -16,15 +16,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Manubot Testing Exercise" />
+  <meta name="citation_title" content="Manubot Testing Exercise" />
+  <meta property="og:title" content="Manubot Testing Exercise" />
+  <meta property="twitter:title" content="Manubot Testing Exercise" />
   <meta name="dc.date" content="2023-05-08" />
   <meta name="citation_publication_date" content="2023-05-08" />
   <meta property="article:published_time" content="2023-05-08" />
-  <meta name="dc.modified" content="2023-05-08T23:28:03+00:00" />
-  <meta property="article:modified_time" content="2023-05-08T23:28:03+00:00" />
+  <meta name="dc.modified" content="2023-05-08T23:41:44+00:00" />
+  <meta property="article:modified_time" content="2023-05-08T23:41:44+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://jmoggridge.github.io/manubot_template/" />
   <meta name="citation_pdf_url" content="https://jmoggridge.github.io/manubot_template/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jmoggridge.github.io/manubot_template/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jmoggridge.github.io/manubot_template/v/6734d06f196eeb1fa10b7fa117ba05e2c7a0d6de/" />
-  <meta name="manubot_html_url_versioned" content="https://jmoggridge.github.io/manubot_template/v/6734d06f196eeb1fa10b7fa117ba05e2c7a0d6de/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jmoggridge.github.io/manubot_template/v/6734d06f196eeb1fa10b7fa117ba05e2c7a0d6de/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jmoggridge.github.io/manubot_template/v/a53f3d1a9ee455203ebba46007e7e279b366c773/" />
+  <meta name="manubot_html_url_versioned" content="https://jmoggridge.github.io/manubot_template/v/a53f3d1a9ee455203ebba46007e7e279b366c773/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jmoggridge.github.io/manubot_template/v/a53f3d1a9ee455203ebba46007e7e279b366c773/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jmoggridge.github.io/manubot_template/v/6734d06f196eeb1fa10b7fa117ba05e2c7a0d6de/))
+([permalink](https://jmoggridge.github.io/manubot_template/v/a53f3d1a9ee455203ebba46007e7e279b366c773/))
 was automatically generated
-from [jmoggridge/manubot_template@6734d06](https://github.com/jmoggridge/manubot_template/tree/6734d06f196eeb1fa10b7fa117ba05e2c7a0d6de)
+from [jmoggridge/manubot_template@a53f3d1](https://github.com/jmoggridge/manubot_template/tree/a53f3d1a9ee455203ebba46007e7e279b366c773)
 on May 8, 2023.
 </em></small>
 
