@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/jmoggridge/manubot_template/tree/gh-pages) branch hosts the contents of this directory at <https://jmoggridge.github.io/manubot_template/>.
-The permalink for this webpage version is <https://jmoggridge.github.io/manubot_template/v/6734d06f196eeb1fa10b7fa117ba05e2c7a0d6de/>.
+The permalink for this webpage version is <https://jmoggridge.github.io/manubot_template/v/a53f3d1a9ee455203ebba46007e7e279b366c773/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://jmoggridge.github.io/manubot_template/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`6734d06f196eeb1fa10b7fa117ba05e2c7a0d6de`](https://github.com/jmoggridge/manubot_template/commit/6734d06f196eeb1fa10b7fa117ba05e2c7a0d6de).
+[`a53f3d1a9ee455203ebba46007e7e279b366c773`](https://github.com/jmoggridge/manubot_template/commit/a53f3d1a9ee455203ebba46007e7e279b366c773).
