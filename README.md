@@ -36,6 +36,3 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 
 The manuscripts in this directory were built from
 [`0fdcff953d18eb42c7ace2f02b141c334ef0260a`](https://github.com/jmoggridge/manubot_template/commit/0fdcff953d18eb42c7ace2f02b141c334ef0260a).
-
-
-CI/CD not working
