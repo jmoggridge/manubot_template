@@ -7,18 +7,17 @@ keywords:
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    mastodon: johndoe
-    mastodon-server: mastodon.social
-    email: john.doe@something.com
+  - github: jmoggridge
+    name: J Moggridge
+    initials: JM
+    orcid: 6969-6969-9696-9969
+    mastodon: jmoggridge
+    mastodon-server: vis.social
+    email: ja.moggridge@gmail.com
     affiliations:
-      - Department of Something, University of Whatever
+      - LTRI
     funders:
-      - Grant XXXXXXXX
+      - Grant skdnfalsndfd
   - github: janeroe
     name: Jane Roe
     initials: JR
