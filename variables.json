@@ -7,12 +7,11 @@
       "manubot"
     ],
     "lang": "en-US",
-    "date-meta": "2023-05-08",
+    "date-meta": "2023-05-09",
     "author-meta": [
-      "J Moggridge",
-      "Jane Roe"
+      "J Moggridge"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"Manubot Testing Exercise\" />\n<meta name=\"citation_title\" content=\"Manubot Testing Exercise\" />\n<meta property=\"og:title\" content=\"Manubot Testing Exercise\" />\n<meta property=\"twitter:title\" content=\"Manubot Testing Exercise\" />\n<meta name=\"dc.date\" content=\"2023-05-08\" />\n<meta name=\"citation_publication_date\" content=\"2023-05-08\" />\n<meta property=\"article:published_time\" content=\"2023-05-08\" />\n<meta name=\"dc.modified\" content=\"2023-05-08T23:41:44+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-05-08T23:41:44+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"J Moggridge\" />\n<meta name=\"citation_author_institution\" content=\"LTRI\" />\n<meta name=\"citation_author_orcid\" content=\"6969-6969-9696-9969\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://jmoggridge.github.io/manubot_template/\" />\n<meta property=\"og:url\" content=\"https://jmoggridge.github.io/manubot_template/\" />\n<meta property=\"twitter:url\" content=\"https://jmoggridge.github.io/manubot_template/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://jmoggridge.github.io/manubot_template/\" />\n<meta name=\"citation_pdf_url\" content=\"https://jmoggridge.github.io/manubot_template/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://jmoggridge.github.io/manubot_template/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://jmoggridge.github.io/manubot_template/v/a53f3d1a9ee455203ebba46007e7e279b366c773/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://jmoggridge.github.io/manubot_template/v/a53f3d1a9ee455203ebba46007e7e279b366c773/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://jmoggridge.github.io/manubot_template/v/a53f3d1a9ee455203ebba46007e7e279b366c773/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"Manubot Testing Exercise\" />\n<meta name=\"citation_title\" content=\"Manubot Testing Exercise\" />\n<meta property=\"og:title\" content=\"Manubot Testing Exercise\" />\n<meta property=\"twitter:title\" content=\"Manubot Testing Exercise\" />\n<meta name=\"dc.date\" content=\"2023-05-09\" />\n<meta name=\"citation_publication_date\" content=\"2023-05-09\" />\n<meta property=\"article:published_time\" content=\"2023-05-09\" />\n<meta name=\"dc.modified\" content=\"2023-05-09T00:35:36+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-05-09T00:35:36+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"J Moggridge\" />\n<meta name=\"citation_author_institution\" content=\"LTRI\" />\n<meta name=\"citation_author_orcid\" content=\"6969-6969-9696-9969\" />\n<link rel=\"canonical\" href=\"https://jmoggridge.github.io/manubot_template/\" />\n<meta property=\"og:url\" content=\"https://jmoggridge.github.io/manubot_template/\" />\n<meta property=\"twitter:url\" content=\"https://jmoggridge.github.io/manubot_template/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://jmoggridge.github.io/manubot_template/\" />\n<meta name=\"citation_pdf_url\" content=\"https://jmoggridge.github.io/manubot_template/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://jmoggridge.github.io/manubot_template/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://jmoggridge.github.io/manubot_template/v/f132e321b41a08299efb10cf8944eeec5ebd4a4a/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://jmoggridge.github.io/manubot_template/v/f132e321b41a08299efb10cf8944eeec5ebd4a4a/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://jmoggridge.github.io/manubot_template/v/f132e321b41a08299efb10cf8944eeec5ebd4a4a/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -22,10 +21,10 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "2023-05-08",
-    "date_long": "May 8, 2023",
-    "generated": "2023-05-08T23:41:44+00:00",
-    "generated_date_long": "May 8, 2023",
+    "date": "2023-05-09",
+    "date_long": "May 9, 2023",
+    "generated": "2023-05-09T00:35:36+00:00",
+    "generated_date_long": "May 9, 2023",
     "randomize_author_order": false,
     "authors": [
       {
@@ -39,27 +38,9 @@
         "affiliations": [
           "LTRI"
         ],
-        "funders": [
-          "Grant skdnfalsndfd"
-        ],
-        "affiliation_numbers": [
-          1
-        ]
-      },
-      {
-        "github": "janeroe",
-        "name": "Jane Roe",
-        "initials": "JR",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "email": "jane.roe@whatever.edu",
-        "affiliations": [
-          "Department of Something, University of Whatever",
-          "Department of Whatever, University of Something"
-        ],
         "corresponding": true,
         "affiliation_numbers": [
-          2,
-          3
+          1
         ]
       }
     ],
@@ -67,14 +48,6 @@
       {
         "affiliation": "LTRI",
         "affiliation_number": 1
-      },
-      {
-        "affiliation": "Department of Something, University of Whatever",
-        "affiliation_number": 2
-      },
-      {
-        "affiliation": "Department of Whatever, University of Something",
-        "affiliation_number": 3
       }
     ],
     "ci_source": {
@@ -82,19 +55,19 @@
       "repo_slug": "jmoggridge/manubot_template",
       "repo_owner": "jmoggridge",
       "repo_name": "manubot_template",
-      "commit": "a53f3d1a9ee455203ebba46007e7e279b366c773",
-      "triggering_commit": "a53f3d1a9ee455203ebba46007e7e279b366c773",
-      "build_url": "https://github.com/jmoggridge/manubot_template/commit/a53f3d1a9ee455203ebba46007e7e279b366c773/checks",
-      "job_url": "https://github.com/jmoggridge/manubot_template/actions/runs/4920657841"
+      "commit": "f132e321b41a08299efb10cf8944eeec5ebd4a4a",
+      "triggering_commit": "f132e321b41a08299efb10cf8944eeec5ebd4a4a",
+      "build_url": "https://github.com/jmoggridge/manubot_template/commit/f132e321b41a08299efb10cf8944eeec5ebd4a4a/checks",
+      "job_url": "https://github.com/jmoggridge/manubot_template/actions/runs/4920980150"
     },
     "html_url": "https://jmoggridge.github.io/manubot_template/",
     "pdf_url": "https://jmoggridge.github.io/manubot_template/manuscript.pdf",
-    "html_url_versioned": "https://jmoggridge.github.io/manubot_template/v/a53f3d1a9ee455203ebba46007e7e279b366c773/",
-    "pdf_url_versioned": "https://jmoggridge.github.io/manubot_template/v/a53f3d1a9ee455203ebba46007e7e279b366c773/manuscript.pdf",
+    "html_url_versioned": "https://jmoggridge.github.io/manubot_template/v/f132e321b41a08299efb10cf8944eeec5ebd4a4a/",
+    "pdf_url_versioned": "https://jmoggridge.github.io/manubot_template/v/f132e321b41a08299efb10cf8944eeec5ebd4a4a/manuscript.pdf",
     "manubot_version": "0.5.5",
     "rootstock_commit": "72a96c90f2aab350de5e06f57587f654d5df1d6b",
     "manuscript_stats": {
-      "word_count": 1595
+      "word_count": 410
     }
   }
 }
